@@ -2,7 +2,7 @@
 
 ## Creation API REST en 20 minutes
 
-### Objectifs:
+### Objectifs:
 * Monter une API REST
 * Generer un jeu de donnees
 * Exposer l'API sur le web
@@ -11,7 +11,7 @@
 * Faire un POC
 * Tester une techno
 
-Problemes:
+### Problemes:
 * La competence
 * Le temps
 * Le courage
