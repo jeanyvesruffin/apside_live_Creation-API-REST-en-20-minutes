@@ -26,7 +26,7 @@ Outils
 
 ### Outils
 
- [Json-server](https://github.com/typicode/json-server), vas nous servir de creer une API REST a l'aide d'un simple fichier json.
+ [Json-server](https://github.com/typicode/json-server), vas nous servir pour creer une API REST a l'aide d'un simple fichier json.
 
 *Installer json-server*
 
@@ -67,4 +67,4 @@ En allant sur l'url http://localhost:3000, nous pouvons voir que l'on viens de d
  Nous pouvons interroger un people en particulier en lui mettant dans l'url l'index. http://localhost:3000/people/0 (retourne sur Bob)
 
  **Gestion des header**
- 
+
