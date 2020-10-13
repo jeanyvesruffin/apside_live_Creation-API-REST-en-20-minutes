@@ -310,4 +310,11 @@ ctrl + s
 ```
 
 
+### Quitter json-server
+
+```cmd
+Ctrl + C
+```
+
+
 
