@@ -1,0 +1,24 @@
+{
+  "name": "apside_live",
+  "version": "1.0.0",
+  "description": "## Creation API REST en 20 minutes",
+  "main": "index.js",
+  "dependencies": {
+    "faker": "^5.1.0",
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanyvesruffin/apside_live.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeanyvesruffin/apside_live/issues"
+  },
+  "homepage": "https://github.com/jeanyvesruffin/apside_live#readme"
+}
